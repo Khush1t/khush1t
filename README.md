@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Khushwant</h1>
 <h3 align="center">Final year Software Engineering Student | Delhi Technological University (formerly DCE)</h3>
 
+## 💫 About Me:
+🌱 I’m currently learning Frontend Web Development<br>
+💬 Talk to me about: SciFi, Technology, Football, F-1<br>
+⚽️ Love to play and watch Football<br>
+💪 Fitness, Calisthenics<br>
+📧 Connect with me: mailto:khush123098@gmail.com
+
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khush1t) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/khushwant-the-sans) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khush1t) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/khushwant-the-sans) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Khush_1t)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -22,10 +32,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khush1t&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khush1t&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khush1t&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=khush1t&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khush1t&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khush1t&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!---
 ## 🏆 GitHub Trophies
