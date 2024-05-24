@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushwant</h1>
 <h3 align="center">Final year Software Engineering student | Delhi Technological University (formerly DCE)</h3>
 
-## 💫 About Me:
+### 💫 About Me:
 🌱 Always learning new technologies and seeking opportunities.<br>
 🧑‍💻 I’m currently learning Frontend Web Development.<br>
 💬 Talk to me about: SciFi, Technology, Football, F-1.<br>
@@ -11,12 +11,12 @@
 📧 Connect with me: mailto:khush123098@gmail.com
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khush1t) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/khushwant-the-sans) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Khush_1t)
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -36,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khush1t&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khush1t&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khush1t&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
