@@ -2,9 +2,12 @@
 <h3 align="center">Final year Software Engineering student | Delhi Technological University (formerly DCE)</h3>
 
 ## 💫 About Me:
-🧑‍💻 I’m currently learning Frontend Web Development<br>
-💬 Talk to me about: SciFi, Technology, Football, F-1<br>
-⚽️ Love to play and watch Football<br>
+🌱 Always learning new technologies and seeking opportunities.<br>
+🧑‍💻 I’m currently learning Frontend Web Development.<br>
+💬 Talk to me about: SciFi, Technology, Football, F-1.<br>
+🏅 Love playing sports, especially Football.<br>
+🎮 Esports Player<br>
+<img src="https://github.com/Khush1t/khush1t/assets/76950403/89be5519-744a-4734-98cf-b4b596692854" style="vertical-align: middle; width: 1em; height: 1em;"/> Speed Cuber<br>
 📧 Connect with me: mailto:khush123098@gmail.com
 
 
