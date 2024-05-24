@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushwant</h1>
-<h3 align="center">Final year Software Engineering Student | Delhi Technological University (formerly DCE)</h3>
+<h3 align="center">Final year Software Engineering student | Delhi Technological University (formerly DCE)</h3>
 
 ## 💫 About Me:
 🧑‍💻 I’m currently learning Frontend Web Development<br>
