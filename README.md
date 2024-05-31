@@ -10,7 +10,6 @@
 <img src="https://github.com/Khush1t/khush1t/assets/76950403/89be5519-744a-4734-98cf-b4b596692854" style="vertical-align: middle; width: 1em; height: 1em;"/> Speed Cuber<br>
 📧 Connect with me: mailto:khush123098@gmail.com
 
-
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khush1t) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/khushwant-the-sans) 
