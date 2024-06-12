@@ -1,5 +1,12 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Khushwant</h1>
 <h3 align="center">Final year Software Engineering student | Delhi Technological University (formerly DCE)</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
+</div>
 
 ### 💫 About Me:
 🌱 Always learning new technologies and seeking opportunities.<br>
