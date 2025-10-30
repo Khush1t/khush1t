@@ -15,7 +15,7 @@
 🏅 Love playing sports, especially Football.<br>
 🎮 Esports Player<br>
 <img src="https://github.com/Khush1t/khush1t/assets/76950403/89be5519-744a-4734-98cf-b4b596692854" style="vertical-align: middle; width: 1em; height: 1em;"/> Speed Cuber<br>
-📧 Connect with me: mailto:khush123098@gmail.com
+📧 Connect with me: mailto:khushwant0328@gmail.com
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khush1t) 
